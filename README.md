@@ -1,2 +1,9 @@
-# jupyter_notebooks_data_visualisation
-Collection of jupyter notebooks illustration useful data visualisation
+# Jupyter Notebooks on Data Visualisation
+
+Hey there,
+
+I am just starting a collection on jupyter notebooks useful for data visualisation.
+
+Feel free to reuse,
+
+Mary
